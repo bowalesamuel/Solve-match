@@ -1,0 +1,35 @@
+/* Kilk */
+
+
+@font-face {
+    font-family:"KilkLight";
+    src:local("Kilk"),
+    url(../../fonts/Fenotype\ -\ Klik\ Light.otf) format("opentype");
+    font-weight: lighter;
+    font-style: normal;
+}
+@font-face {
+    font-family:"Kilk";
+    src:local("Kilk"),
+    url(../../fonts/Fenotype\ -\ Klik\ Regular.otf) format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:"KilkMedium";
+    src:local("Kilk"),
+    url(../../fonts/Fenotype\ -\ Klik\ Medium.otf) format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:"KilkBold";
+    src:local("Kilk"),
+    url(../../fonts/Fenotype\ -\ Klik\ Bold.otf) format("opentype");
+    font-weight: bold;
+    font-style: normal;
+}
+body {
+    margin:0;
+    background-color: #FFFFEE;
+}
